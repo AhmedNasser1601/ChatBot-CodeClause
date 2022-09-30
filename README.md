@@ -4,7 +4,7 @@
 >>> **Task3 >> *ChatBot for CodeClause***
 
 - <a href="#">LinkedIn Post</a>
-- <a href="#">YouTube Video</a>
+- <a href="https://youtu.be/4GylQMG-bto">YouTube Video</a>
 
 ---
 
