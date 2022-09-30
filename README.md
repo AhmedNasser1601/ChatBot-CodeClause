@@ -3,7 +3,7 @@
 >> **Data Science Intern |> *CC-OL-911***
 >>> **Task3 >> *ChatBot for CodeClause***
 
-- <a href="#">LinkedIn Post</a>
+- <a href="https://www.linkedin.com/posts/ahmednasser1601_chatbot-data-science-codeclause-activity-6981536216462581760-NIzJ?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a>
 - <a href="https://youtu.be/4GylQMG-bto">YouTube Video</a>
 
 ---
