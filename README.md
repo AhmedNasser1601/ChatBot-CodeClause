@@ -8,13 +8,9 @@
 
 ---
 
-  - ### <a title="AhmedNasser1601/ChatBot-CodeClause" href="#"><img width="60" alt="@@@@@" src="#">ChatBot for CodeClause</a>
+  - ### <a title="AhmedNasser1601/ChatBot-CodeClause" href="ChatBot_CodeClause.ipynb"><img width="60" alt="ChatBot-CodeClause" src="https://www.clipartmax.com/png/small/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png"> ChatBot for CodeClause</a>
   
-  > Based on |> <a href="#">@@@@@</a>
-  >> <img src="/Results/0.png">
+  > Based on |> <a href="/intents.json">Intents File</a>
+  >> <img src="/0.png">
   
----
-
-<img src="/Results/1.png">  <img src="/Results/2.png">  <img src="/Results/3.png">
-
 ---
